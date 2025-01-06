@@ -1,4 +1,4 @@
-###CONDICIONALES SIMPLES Y COMPUESTAS
+### CONDICIONALES SIMPLES Y COMPUESTAS
 
 ### Programa para verificar si un número es negativo
 
